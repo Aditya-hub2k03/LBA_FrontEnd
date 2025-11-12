@@ -1,5 +1,5 @@
 Laqshya Badmintion Academy - FrontEnd Design
 
 
-npm install
+npm install<br>
 npm run dev
